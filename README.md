@@ -4,7 +4,7 @@ I want to write a program that demonstrates a basic understanding of C++. I want
 
 The software is a basic arithmetic calculator that takes in 2 number inputs. The user can then enter which operation they wish to perform on those 2 numbers. It then performs that operation and displays the result to the screen, it saves that equation to a text file called history.txt. The program continues until the user tells the program no to continue.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/hlxMsbf7iGo)
 
 # Development Environment
 
